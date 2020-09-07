@@ -5,7 +5,7 @@
 #define GAME_COLOR    32
 
 #define GAME_WINDOW_BAR   0
-#define GAME_WINDOW_NAME  "GAME_TITLE"
+#define GAME_WINDOW_NAME  "Dxlib_Movie"
 
 #define MOVIE_PATH   ".\\MOVIE\\Fireworks.mp4"
 
